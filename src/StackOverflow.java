@@ -3,7 +3,7 @@ class StackOverflow {
         if (i == 0)
             return;
         else
-            test(i--);
+            test(i++);
     }
 }
 
